@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dashboards",
-  description: "Dashboard application",
+  title: "Containers",
+  description: "Gerenciador de containers locais",
 };
 
 export default function RootLayout({
